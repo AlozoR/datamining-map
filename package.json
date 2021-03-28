@@ -1,4 +1,25 @@
 {
+  "name": "datamining-map",
+  "version": "1.0.0",
+  "description": "Datamining and Web Semantics Assignement",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlozoR/datamining-map.git"
+  },
+  "keywords": [
+    "Datamining"
+  ],
+  "author": "Nicolas Mery, Thomas Metral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlozoR/datamining-map/issues"
+  },
+  "homepage": "https://github.com/AlozoR/datamining-map#readme",
   "dependencies": {
     "axios": "^0.21.1"
   }
