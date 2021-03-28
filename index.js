@@ -10,7 +10,7 @@ const rl = ReadLine.createInterface({
   terminal: false
 });
 
-const URL = 'http://localhost:3030/datamining/query'
+const URL = 'http://triplestore:3030/datamining/query'
 
 const CONFIG = {
   headers: {
