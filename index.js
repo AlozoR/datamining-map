@@ -10,6 +10,8 @@ const rl = ReadLine.createInterface({
   terminal: false
 });
 
+const URL = 'http://triplestore:3030/datamining/query'
+
 const CONFIG = {
   headers: {
     'Content-Type': 'application/x-www-form-urlencoded'
@@ -19,7 +21,7 @@ const CONFIG = {
 
 const selectQuery = query => {
   query = 'query=' + encodeURIComponent(query)
-  return axios.post('http://localhost:3030/datamining/query', query, CONFIG)
+  return axios.post(URL, query, CONFIG)
     .then(response => {
       console.log('Query OK')
       return response.data.results.bindings
