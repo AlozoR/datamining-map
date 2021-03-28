@@ -1,0 +1,178 @@
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://schema.org/-fr> "10" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "101 Centre" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "22" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8578462E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.749776E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://schema.org/-fr> "19" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://schema.org/-to> "20" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "102 Centre 2" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8578462E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.749776E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://schema.org/-fr> "21" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://schema.org/-to> "31" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "103 Gare de Strasbourg" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "10" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8585082E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.735024E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://schema.org/-fr> "24" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "105 Rotonde" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "8" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8591639E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.725089E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://schema.org/-fr> "11" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "106 Gare Sud" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "21" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8584209E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.734519E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://schema.org/-fr> "24" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "107 UniversitÃ©" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "8" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8582023E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.766771E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://schema.org/-fr> "27" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "108 Gare Nord" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "5" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8585678E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.733542E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://schema.org/-fr> "18" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://schema.org/-to> "28" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "109 Place Arnold" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "10" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8584504E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.768772E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://schema.org/-fr> "25" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "110 Robertsau Boecklin" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "7" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8598096E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.777902E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://schema.org/-fr> "25" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://schema.org/-to> "30" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "111 Campus d'Illkirch" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "5" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8529616E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.734226E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://schema.org/-fr> "3" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://schema.org/-to> "10" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "112 Hohwart" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "7" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.854919E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.740754E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://schema.org/-fr> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://schema.org/-to> "30" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "113 Parking Broglie" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "14" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8585415E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.749395E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://schema.org/-fr> "21" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://schema.org/-to> "30" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "114 Parking Austerlitz" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "9" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8578005E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.751863E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://schema.org/-fr> "4" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://schema.org/-to> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "115 Hoenheim Gare" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "12" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8628353E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.760103E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://schema.org/-fr> "7" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://schema.org/-to> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "116 Place Islande" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "9" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8580314E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.776203E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://schema.org/-fr> "9" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://schema.org/-to> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "122 Schiltigheim Mairie" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "7" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8606759E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.749183E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://schema.org/-fr> "19" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://schema.org/-to> "26" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "123 Koenigshoffen" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "7" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.85791E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.713481E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://schema.org/-fr> "10" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://schema.org/-to> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "124 Auberge de jeunesse" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "6" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8568644E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.795621E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://schema.org/-fr> "19" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://schema.org/-to> "32" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "125 Place du MarchÃ© Neudorf" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "13" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8565864E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.759242E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://schema.org/-cb> "1" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://schema.org/-fr> "8" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://schema.org/-to> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "126 Espace EuropÃ©en de l'Entreprise" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "8" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8612597E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.71163E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://schema.org/-fr> "11" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://schema.org/-self-closing> "true" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://schema.org/-to> "16" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse> "127 Ostwald HÃ´tel de Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes> "5" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.8551032E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "7.7112E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS101> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS102> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS103> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS105> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS106> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS107> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS108> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS109> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS110> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS111> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS112> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS113> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS114> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS115> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS116> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS122> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS123> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS124> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS125> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS126> .
+_:b0 <http://schema.org/Velo> <http://www.semanticweb.org/yves/ontologies/2021/2/VELO_STRAS127> .

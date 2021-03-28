@@ -1,0 +1,726 @@
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/ADRESSE_> "Place de la Commune de Paris" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/GRATUITE> "2h" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/STREET_VIE> "https://www.google.fr/maps/@48.9530985,2.2272257,3a,75y,296.74h,78.97t/data=!3m9!1e1!3m7!1smc0cJagx9WkPjeI0yarLrg!2e0!7i16384!8i8192!9m2!1b1!2i40" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/TYPE> "Horaires et abonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "174"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Terrasses/Franprix" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/franprix-95070800\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/ADRESSE_> "AllÃ©e Soulezard" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/STREET_VIE> "https://www.google.fr/maps/@48.9520004,2.2289633,3a,41.4y,316.52h,96.94t/data=!3m9!1e1!3m7!1sEG-fkcxiOTES3BPykJdtBQ!2e0!7i16384!8i8192!9m2!1b1!2i40" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "124"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Commune de Paris" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/commune-de-paris-95070700\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/ADRESSE_> "Place Aristide Briand" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/EXPLOITANT> "Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Aristide Briand" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/ADRESSE_> "En face du 15 boulevard Karl Marx" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/EXPLOITANT> "Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "81"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Gare d'Argenteuil" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/ADRESSE_> "En face du 25 boulevard Karl Marx" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/EXPLOITANT> "Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "113"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Gare d'Argenteuil" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/ADRESSE_> "1 Boulevard de la Resistance" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/EXPLOITANT> "Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "428"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Gare du Val d'Argent" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/ADRESSE_> "16 A Boulevard LÃ©on Feix" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/EXPLOITANT> "Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "HÃ´tel de Ville" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/ADRESSE_> "En face du 7 Clos du Chateau" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Avenue de la GlaciÃ¨re" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/ADRESSE_> "En face du 1 rue de Chailloit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/NB_PMR> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Chailloit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/ADRESSE_> "7-13 rue du Troupeau" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/NB_PMR> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Champioux" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/ADRESSE_> "5 Place de la Commune de Paris" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/NB_PMR> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "145"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Provence" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/provence-95070300\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/ADRESSE_> "En face du 23 allÃ©e Pierre de Ronsard" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/NB_PMR> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "CollÃ¨ge Claude Monet" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/ADRESSE_> "Boulevard HÃ©loÃ¯se" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "de la Plataneraie" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/ADRESSE_> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/REGLEMENT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://schema.org/TYPE_PARC> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Ancien commissariat" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/ADRESSE_> "91 Boulevard du General Delambre" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/NB_PMR> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "34"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Delambre" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/ADRESSE_> "DerriÃ¨re le 3 allÃ©e Beethoven" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "61"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Ecole Romain Rolland" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/ADRESSE_> "58 AllÃ©e Fernand Leger" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/NB_PMR> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Fernand LÃ©ger" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/ADRESSE_> "AllÃ©e de la Griffe d'Argent" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/REGLEMENT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://schema.org/TYPE_PARC> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "330"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "IUT" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/ADRESSE_> "A l'angle de l'Avenue Gabriel PÃ©ri et le quai de Bezons" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "253"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Jean Villar" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/ADRESSE_> "En face de 42 AllÃ©e Fernand Leger" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "32"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "LurÃ§at" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/ADRESSE_> "En face de 80 Boulevard HÃ©loise" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit/Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "135"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "MarchÃ© HÃ©loÃ¯se" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/ADRESSE_> "1 Esplanade Salvador Allende" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/GRATUITE> "30min" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/NB_PMR> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/TYPE> "Horaires et abonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Paul Vaillant Couturier" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/paul-vaillant-couturier-95070100" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/ADRESSE_> "Rue RenÃ© Chausson" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/NB_PMR> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "38"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "RenÃ© Chausson" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/ADRESSE_> "A l'angle de la rue de la Berionne et Boulevard de la Resistance" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "RÃ©sistance / Wallon" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/ADRESSE_> "Rue des Allobroges" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "rue des Allobroges" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/ADRESSE_> "En face du 13 AllÃ©e Auguste Renoir" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/EXPLOITANT> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/REGLEMENT> "Non" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/TYPE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://schema.org/TYPE_PARC> "Surface" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Gratuit" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "175"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Sisley" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/ADRESSE_> "5 Rue de la Berionne" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "471"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Europe" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/europe-95070500\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/ADRESSE_> "56 Avenue du Marechal Foch" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/GRATUITE> "2h30min" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/NB_PMR> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/STREET_VIE> "https://www.google.fr/maps/@48.9437863,2.2538934,3a,75y,308.35h,94.93t/data=!3m9!1e1!3m7!1sCSpAW58kAcEsKC9kcy09XA!2e0!7i16384!8i8192!9m2!1b1!2i40" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/TYPE> "Horaires et abonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "1360"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "CotÃ© Seine" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/cote-seine-95070200\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/ADRESSE_> "13 Place de la Commune de Paris" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/STREET_VIE> "https://www.google.fr/maps/@48.9542376,2.2298387,3a,24.6y,255.59h,92.05t/data=!3m6!1e1!3m4!1sb2EnMFv-jeErxGgldbom9g!2e0!7i16384!8i8192" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "248"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Allobroges" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/allobroges-95070400\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/ADRESSE_> "Place d'Alessandria" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/STREET_VIE> "https://www.google.fr/maps/@48.9524865,2.223483,3a,75y,132.24h,89.18t/data=!3m9!1e1!3m7!1shtPBiWRUZPD_pWZwMhKFUg!2e0!7i16384!8i8192!9m2!1b1!2i40" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "174"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "La Frette" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/la-frette-95071000\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/ADRESSE_> "Place Saint Just" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "264"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "CÃ©vennes" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/cevennes-95071100\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/ADRESSE_> "Place de Canuts" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/TYPE> "AbonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "303"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Bapaume" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/bapaume-95070600\r\n" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/ADRESSE_> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/EXPLOITANT> "Indigo" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/GRATUITE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/ID> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/NB_PMR> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/REGLEMENT> "Oui" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/STREET_VIE> " " .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/TYPE> "Horaires et abonnÃ©s" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://schema.org/TYPE_PARC> "Ouvrage" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant> "Payant" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces> "630"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom> "Montesquieu / Val d'Argent Sud" .
+<http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url> "https://fr.parkindigo.com/parking/argenteuil-95100/val-dargent-sud-95070900\r\n" .
+_:b0 <http://schema.org/Parking> _:b1 .
+_:b0 <http://schema.org/Parking> _:b11 .
+_:b0 <http://schema.org/Parking> _:b13 .
+_:b0 <http://schema.org/Parking> _:b15 .
+_:b0 <http://schema.org/Parking> _:b17 .
+_:b0 <http://schema.org/Parking> _:b19 .
+_:b0 <http://schema.org/Parking> _:b21 .
+_:b0 <http://schema.org/Parking> _:b23 .
+_:b0 <http://schema.org/Parking> _:b25 .
+_:b0 <http://schema.org/Parking> _:b27 .
+_:b0 <http://schema.org/Parking> _:b29 .
+_:b0 <http://schema.org/Parking> _:b3 .
+_:b0 <http://schema.org/Parking> _:b31 .
+_:b0 <http://schema.org/Parking> _:b33 .
+_:b0 <http://schema.org/Parking> _:b35 .
+_:b0 <http://schema.org/Parking> _:b37 .
+_:b0 <http://schema.org/Parking> _:b39 .
+_:b0 <http://schema.org/Parking> _:b41 .
+_:b0 <http://schema.org/Parking> _:b43 .
+_:b0 <http://schema.org/Parking> _:b45 .
+_:b0 <http://schema.org/Parking> _:b47 .
+_:b0 <http://schema.org/Parking> _:b49 .
+_:b0 <http://schema.org/Parking> _:b5 .
+_:b0 <http://schema.org/Parking> _:b51 .
+_:b0 <http://schema.org/Parking> _:b53 .
+_:b0 <http://schema.org/Parking> _:b55 .
+_:b0 <http://schema.org/Parking> _:b57 .
+_:b0 <http://schema.org/Parking> _:b59 .
+_:b0 <http://schema.org/Parking> _:b61 .
+_:b0 <http://schema.org/Parking> _:b63 .
+_:b0 <http://schema.org/Parking> _:b65 .
+_:b0 <http://schema.org/Parking> _:b7 .
+_:b0 <http://schema.org/Parking> _:b9 .
+_:b1 <http://schema.org/geometry> _:b2 .
+_:b1 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK1> .
+_:b1 <http://schema.org/type> "Feature" .
+_:b1 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895437200812961E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b1 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.231236681997787E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b10 <http://schema.org/coordinates> "2.228913563296197E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b10 <http://schema.org/coordinates> "4.895440145331812E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b10 <http://schema.org/type> "Point" .
+_:b11 <http://schema.org/geometry> _:b12 .
+_:b11 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK6> .
+_:b11 <http://schema.org/type> "Feature" .
+_:b11 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.89522017212866E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b11 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.224461818296343E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b12 <http://schema.org/coordinates> "2.224461818296343E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b12 <http://schema.org/coordinates> "4.89522017212866E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b12 <http://schema.org/type> "Point" .
+_:b13 <http://schema.org/geometry> _:b14 .
+_:b13 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK7> .
+_:b13 <http://schema.org/type> "Feature" .
+_:b13 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895376592696851E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b13 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.227682014181906E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b14 <http://schema.org/coordinates> "2.227682014181906E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b14 <http://schema.org/coordinates> "4.895376592696851E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b14 <http://schema.org/type> "Point" .
+_:b15 <http://schema.org/geometry> _:b16 .
+_:b15 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK8> .
+_:b15 <http://schema.org/type> "Feature" .
+_:b15 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895343597556831E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b15 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.224831133434342E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b16 <http://schema.org/coordinates> "2.224831133434342E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b16 <http://schema.org/coordinates> "4.895343597556831E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b16 <http://schema.org/type> "Point" .
+_:b17 <http://schema.org/geometry> _:b18 .
+_:b17 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK9> .
+_:b17 <http://schema.org/type> "Feature" .
+_:b17 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894803396272274E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b17 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.232181339585996E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b18 <http://schema.org/coordinates> "2.232181339585996E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b18 <http://schema.org/coordinates> "4.894803396272274E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b18 <http://schema.org/type> "Point" .
+_:b19 <http://schema.org/geometry> _:b20 .
+_:b19 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK10> .
+_:b19 <http://schema.org/type> "Feature" .
+_:b19 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895313768459957E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b19 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.227228011471751E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b2 <http://schema.org/coordinates> "2.231236681997787E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b2 <http://schema.org/coordinates> "4.895437200812961E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b2 <http://schema.org/type> "Point" .
+_:b20 <http://schema.org/coordinates> "2.227228011471751E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b20 <http://schema.org/coordinates> "4.895313768459957E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b20 <http://schema.org/type> "Point" .
+_:b21 <http://schema.org/geometry> _:b22 .
+_:b21 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK11> .
+_:b21 <http://schema.org/type> "Feature" .
+_:b21 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895216221263657E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b21 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.229206668248563E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b22 <http://schema.org/coordinates> "2.229206668248563E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b22 <http://schema.org/coordinates> "4.895216221263657E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b22 <http://schema.org/type> "Point" .
+_:b23 <http://schema.org/geometry> _:b24 .
+_:b23 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK12> .
+_:b23 <http://schema.org/type> "Feature" .
+_:b23 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894878274456106E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b23 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.257650103445702E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b24 <http://schema.org/coordinates> "2.257650103445702E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b24 <http://schema.org/coordinates> "4.894878274456106E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b24 <http://schema.org/type> "Point" .
+_:b25 <http://schema.org/geometry> _:b26 .
+_:b25 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK13> .
+_:b25 <http://schema.org/type> "Feature" .
+_:b25 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894525706350416E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b25 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.258420102999893E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b26 <http://schema.org/coordinates> "2.258420102999893E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b26 <http://schema.org/coordinates> "4.894525706350416E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b26 <http://schema.org/type> "Point" .
+_:b27 <http://schema.org/geometry> _:b28 .
+_:b27 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK14> .
+_:b27 <http://schema.org/type> "Feature" .
+_:b27 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894595154720356E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b27 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.257641974570719E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b28 <http://schema.org/coordinates> "2.257641974570719E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b28 <http://schema.org/coordinates> "4.894595154720356E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b28 <http://schema.org/type> "Point" .
+_:b29 <http://schema.org/geometry> _:b30 .
+_:b29 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK15> .
+_:b29 <http://schema.org/type> "Feature" .
+_:b29 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.89504548759425E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b29 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.229578298826553E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b3 <http://schema.org/geometry> _:b4 .
+_:b3 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK2> .
+_:b3 <http://schema.org/type> "Feature" .
+_:b3 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894215525020007E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b3 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.250042363213596E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b30 <http://schema.org/coordinates> "2.229578298826553E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b30 <http://schema.org/coordinates> "4.89504548759425E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b30 <http://schema.org/type> "Point" .
+_:b31 <http://schema.org/geometry> _:b32 .
+_:b31 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK16> .
+_:b31 <http://schema.org/type> "Feature" .
+_:b31 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894676159682047E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b31 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.248700939694001E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b32 <http://schema.org/coordinates> "2.248700939694001E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b32 <http://schema.org/coordinates> "4.894676159682047E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b32 <http://schema.org/type> "Point" .
+_:b33 <http://schema.org/geometry> _:b34 .
+_:b33 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK17> .
+_:b33 <http://schema.org/type> "Feature" .
+_:b33 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.893498688709427E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b33 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.229928066879532E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b34 <http://schema.org/coordinates> "2.229928066879532E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b34 <http://schema.org/coordinates> "4.893498688709427E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b34 <http://schema.org/type> "Point" .
+_:b35 <http://schema.org/geometry> _:b36 .
+_:b35 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK18> .
+_:b35 <http://schema.org/type> "Feature" .
+_:b35 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895819543505168E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b35 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.240292672968526E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b36 <http://schema.org/coordinates> "2.240292672968526E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b36 <http://schema.org/coordinates> "4.895819543505168E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b36 <http://schema.org/type> "Point" .
+_:b37 <http://schema.org/geometry> _:b38 .
+_:b37 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK19> .
+_:b37 <http://schema.org/type> "Feature" .
+_:b37 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894143115767866E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b37 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.22328339794702E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b38 <http://schema.org/coordinates> "2.22328339794702E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b38 <http://schema.org/coordinates> "4.894143115767866E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b38 <http://schema.org/type> "Point" .
+_:b39 <http://schema.org/geometry> _:b40 .
+_:b39 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK20> .
+_:b39 <http://schema.org/type> "Feature" .
+_:b39 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895420312021768E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b39 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.224182486488947E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b4 <http://schema.org/coordinates> "2.250042363213596E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b4 <http://schema.org/coordinates> "4.894215525020007E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b4 <http://schema.org/type> "Point" .
+_:b40 <http://schema.org/coordinates> "2.224182486488947E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b40 <http://schema.org/coordinates> "4.895420312021768E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b40 <http://schema.org/type> "Point" .
+_:b41 <http://schema.org/geometry> _:b42 .
+_:b41 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK21> .
+_:b41 <http://schema.org/type> "Feature" .
+_:b41 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.893810675620605E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b41 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.24670534336519E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b42 <http://schema.org/coordinates> "2.24670534336519E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b42 <http://schema.org/coordinates> "4.893810675620605E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b42 <http://schema.org/type> "Point" .
+_:b43 <http://schema.org/geometry> _:b44 .
+_:b43 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK22> .
+_:b43 <http://schema.org/type> "Feature" .
+_:b43 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894620974024472E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b43 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.254909320088473E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b44 <http://schema.org/coordinates> "2.254909320088473E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b44 <http://schema.org/coordinates> "4.894620974024472E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b44 <http://schema.org/type> "Point" .
+_:b45 <http://schema.org/geometry> _:b46 .
+_:b45 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK23> .
+_:b45 <http://schema.org/type> "Feature" .
+_:b45 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.89333742362791E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b45 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.225474583217381E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b46 <http://schema.org/coordinates> "2.225474583217381E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b46 <http://schema.org/coordinates> "4.89333742362791E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b46 <http://schema.org/type> "Point" .
+_:b47 <http://schema.org/geometry> _:b48 .
+_:b47 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK24> .
+_:b47 <http://schema.org/type> "Feature" .
+_:b47 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895358244829128E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b47 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.219105234284209E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b48 <http://schema.org/coordinates> "2.219105234284209E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b48 <http://schema.org/coordinates> "4.895358244829128E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b48 <http://schema.org/type> "Point" .
+_:b49 <http://schema.org/geometry> _:b50 .
+_:b49 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK25> .
+_:b49 <http://schema.org/type> "Feature" .
+_:b49 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895213517595786E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b49 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.225299254530249E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b5 <http://schema.org/geometry> _:b6 .
+_:b5 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK3> .
+_:b5 <http://schema.org/type> "Feature" .
+_:b5 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895272453978681E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b5 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.225955554929292E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b50 <http://schema.org/coordinates> "2.225299254530249E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b50 <http://schema.org/coordinates> "4.895213517595786E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b50 <http://schema.org/type> "Point" .
+_:b51 <http://schema.org/geometry> _:b52 .
+_:b51 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK26> .
+_:b51 <http://schema.org/type> "Feature" .
+_:b51 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.89493973938249E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b51 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.232278435345776E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b52 <http://schema.org/coordinates> "2.232278435345776E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b52 <http://schema.org/coordinates> "4.89493973938249E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b52 <http://schema.org/type> "Point" .
+_:b53 <http://schema.org/geometry> _:b54 .
+_:b53 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK27> .
+_:b53 <http://schema.org/type> "Feature" .
+_:b53 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894129134596356E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b53 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.253175999189216E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b54 <http://schema.org/coordinates> "2.253175999189216E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b54 <http://schema.org/coordinates> "4.894129134596356E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b54 <http://schema.org/type> "Point" .
+_:b55 <http://schema.org/geometry> _:b56 .
+_:b55 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK28> .
+_:b55 <http://schema.org/type> "Feature" .
+_:b55 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895236487947158E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b55 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.226974677314278E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b56 <http://schema.org/coordinates> "2.226974677314278E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b56 <http://schema.org/coordinates> "4.895236487947158E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b56 <http://schema.org/type> "Point" .
+_:b57 <http://schema.org/geometry> _:b58 .
+_:b57 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK29> .
+_:b57 <http://schema.org/type> "Feature" .
+_:b57 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.89393083033671E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b57 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.248275201394213E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b58 <http://schema.org/coordinates> "2.248275201394213E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b58 <http://schema.org/coordinates> "4.89393083033671E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b58 <http://schema.org/type> "Point" .
+_:b59 <http://schema.org/geometry> _:b60 .
+_:b59 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK30> .
+_:b59 <http://schema.org/type> "Feature" .
+_:b59 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895124372233224E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b59 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.223938849567239E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b6 <http://schema.org/coordinates> "2.225955554929292E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b6 <http://schema.org/coordinates> "4.895272453978681E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b6 <http://schema.org/type> "Point" .
+_:b60 <http://schema.org/coordinates> "2.223938849567239E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b60 <http://schema.org/coordinates> "4.895124372233224E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b60 <http://schema.org/type> "Point" .
+_:b61 <http://schema.org/geometry> _:b62 .
+_:b61 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK31> .
+_:b61 <http://schema.org/type> "Feature" .
+_:b61 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895116053428793E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b61 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.221767795446775E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b62 <http://schema.org/coordinates> "2.221767795446775E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b62 <http://schema.org/coordinates> "4.895116053428793E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b62 <http://schema.org/type> "Point" .
+_:b63 <http://schema.org/geometry> _:b64 .
+_:b63 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK32> .
+_:b63 <http://schema.org/type> "Feature" .
+_:b63 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895521365227425E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b63 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.2172068879772E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b64 <http://schema.org/coordinates> "2.2172068879772E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b64 <http://schema.org/coordinates> "4.895521365227425E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b64 <http://schema.org/type> "Point" .
+_:b65 <http://schema.org/geometry> _:b66 .
+_:b65 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK33> .
+_:b65 <http://schema.org/type> "Feature" .
+_:b65 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895551104551056E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b65 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.230223385488293E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b66 <http://schema.org/coordinates> "2.230223385488293E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b66 <http://schema.org/coordinates> "4.895551104551056E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b66 <http://schema.org/type> "Point" .
+_:b7 <http://schema.org/geometry> _:b8 .
+_:b7 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK4> .
+_:b7 <http://schema.org/type> "Feature" .
+_:b7 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.894377596427673E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b7 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.253727515324648E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b8 <http://schema.org/coordinates> "2.253727515324648E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b8 <http://schema.org/coordinates> "4.894377596427673E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b8 <http://schema.org/type> "Point" .
+_:b9 <http://schema.org/geometry> _:b10 .
+_:b9 <http://schema.org/properties> <http://www.semanticweb.org/yves/ontologies/2021/2/PARK5> .
+_:b9 <http://schema.org/type> "Feature" .
+_:b9 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude> "4.895440145331812E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b9 <http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude> "2.228913563296197E0"^^<http://www.w3.org/2001/XMLSchema#double> .
