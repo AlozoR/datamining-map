@@ -1,0 +1,156 @@
+TGV Stations
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "FIELD1" : "@id",
+ "Nom_Gare": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom",
+   "Latitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+   "Longitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude"
+ },
+ 
+  "TgvStation":[
+  ]
+}
+
+	-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+STAS Stations
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "stop_id" : "@id",
+ "stop_name": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom",
+   "stop_lat": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+   "stop_lon": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude",
+   "location_type": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#LocType"
+ },
+ 
+  "StasStation":[
+  ]
+}
+
+	-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Velo Lyon
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "number" : "@id",
+ "name": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom",
+ "adresse": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse",
+ "adresse2": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse2",
+	"lat": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+	"lng": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude",
+	"available_bikes": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes",
+	"type": null,
+	"nmarrond": null,
+	"bonus": null,
+	"pole": null,
+	"bike_stands": null,
+	"status": null,
+	"available_bike_stands": null,
+	"availabilitycode": null,
+	"availability": null,
+	"banking": null,
+	"gid": null,
+	"last_update": null,
+	"last_update_fme": null,
+	"code_insee": null,
+	"langue": null,
+	"etat": null,
+	"nature": null,
+	"titre": null,
+	"description": null,
+	"startdate": null,
+	"enddate": null,
+	"geometry": null,
+	"coordinates": null
+ },
+ 
+  "Velo":[
+  ]
+}
+
+	-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Velo Strasbourg
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "-id" : "@id",
+ "-na": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse",
+   "-la": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+   "-lg": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude",
+   "-av": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes",
+   "-fr": null,
+   "-to": null,
+   "-cb": null,
+   "-self-closing": null
+ },
+ 
+  "Velo":[
+  ]
+}
+
+	-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Parkings Argenteuil
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "FID" : "@id",
+ "NOM": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom",
+   "latitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+   "longitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude",
+   "GRATUIT_PA": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant",
+   "HTTP": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url",
+   "NB_PLACE": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces"
+ },
+ 
+  "Parking":[
+  ]
+}
+
+	-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hopitaux
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "objectid" : "@id",
+ "libelle": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom",
+   "latitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+   "longitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude",
+   "commune": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Commune",
+   "url": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url"
+ },
+ 
+  "Hopital":[
+  ]
+}
+
+	-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bibliothèques
+{
+ "@context": {
+ "@vocab": "http://schema.org/",
+ "@base" : "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#",
+ "id1" : "@id",
+ "nomlong": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom",
+   "latitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude",
+   "longitude": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude",
+   "adresse_adresse": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse",
+   "com_nom": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Commune",
+   "internet_web": "http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url"
+ },
+ 
+  "Bibliotheque":[
+  ]
+}

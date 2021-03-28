@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#"
+     xml:base="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse2 -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Adresse2">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#AvailableBikes">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Commune -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Commune">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#GratuitPayant">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Id">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#TgvStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Latitude">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#TgvStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#LocType -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#LocType">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Longitude">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#TgvStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#NbPlaces">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Nom">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#TgvStation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Url">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Batiment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Batiment"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Bibliotheque">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Batiment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Hopital">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Batiment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Parking"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Sation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Sation"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#StasStation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Sation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#TgvStation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#TgvStation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Sation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yves/ontologies/2021/2/untitled-ontology-5#Velo"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
